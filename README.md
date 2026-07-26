@@ -138,7 +138,7 @@ A demonstration video of the application is included in this repository.
 **Amitabha Ghosh**
 
 - GitHub: https://github.com/AMITABHA7430
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn:(https://www.linkedin.com/posts/amitabha-ghosh-bb132b313_java-springboot-reactjs-ugcPost-7487262527488229376-8fCy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-axvUBp28ZP7XKt1IHWI-InYwu486PMww)
 
 ---
 
